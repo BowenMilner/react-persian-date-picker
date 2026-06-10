@@ -1,8 +1,8 @@
 {
   "name": "persian-date-picker-reactjs",
   "version": "1.3.9",
-  "main": "react-persian-date-picker/index.js",
-  "module": "react-persian-date-picker/index.esm.js",
+  "main": "index.js",
+  "module": "index.esm.js",
   "license": "MIT",
   "author": "Mohammad Hasan Pourhasani <mhpourhasani.dev@gmail.com> (https://github.com/MHPourhasani)",
   "description": "Persian React Date Picker",
